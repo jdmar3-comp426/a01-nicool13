@@ -54,7 +54,7 @@ img {
     border-style: double;
 }
 
-h1 + p {
+body p {
     font-family: cursive;
     color: thistle;
 }
