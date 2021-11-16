@@ -1,0 +1,60 @@
+* {
+    text-align: center
+}
+
+h1 {
+    font-family:fantasy;
+
+}
+
+#indexHeader {
+    color: coral;
+    min-height: fit-content;
+    min-width: fit-content;
+}
+
+#indexHeader:hover {
+    color:seagreen;
+}
+
+#factsHeader {
+    color: darkviolet;
+}
+
+ul.facts {
+    list-style-type: circle;
+    list-style-position: inside;
+    background: #ff7713;
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p {
+    color: blueviolet;
+    font-family: fantasy;
+    font-size: large;
+}
+
+a:link {
+    color: darkturquoise;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a:visited {
+    color: darkturquoise;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a:hover {
+    color:deeppink;
+}
+
+img {
+    border: deeppink;
+    border-style: double;
+}
+
+body p {
+    font-family: cursive;
+    color: thistle;
+}
